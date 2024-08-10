@@ -23,7 +23,7 @@ Metrics Used: RMSE (Root Mean Squared Error) and R² (R-squared) were used to ev
 * How to Run the Notebook
 git clone https://github.com/rjpatil885/Graduate-Admission-Prediction/graduate-admission-prediction.git
 
-*Open and run the Jupyter Notebook:
+* Open and run the Jupyter Notebook:
 jupyter notebook admission.ipynb
 
 * Requirements
