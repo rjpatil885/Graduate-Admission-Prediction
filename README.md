@@ -34,4 +34,7 @@ Scikit-learn, XGBoost
 TensorFlow/Keras (if applicable)
 
 
+## Disclaimer
+This repository is intended for recruitment purposes only. The code and content provided here are meant to demonstrate my skills and are not licensed for any other use, distribution, or modification.
+
 Thank you
